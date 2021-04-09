@@ -3,7 +3,9 @@
 
 
 # Running on PC
-
+1. Instal dependencies using command: "pip install -r requirements.txt"
+2. Turn on Tello drone and connect to it Wi-Fi 
+3. Run DronConfig.py
 
 # Running on Jetson TX2 (should be similar for other devices)
 
