@@ -1,7 +1,7 @@
-# 
+# A simple vision-based navigation and control strategy for autonomous drone racing
 
 
-[![Our VideoAbstract](https://i9.ytimg.com/vi/3o-n0vZu0ps/maxresdefault.jpg)](https://youtu.be/3o-n0vZu0ps "Everything Is AWESOME")
+[![Video abstract](https://img.youtube.com/vi/3o-n0vZu0ps/0.jpg)](https://youtu.be/3o-n0vZu0ps "A simple vision-based navigation and control strategy for autonomous drone racing")
 
 
 ## Running on PC
