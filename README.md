@@ -27,7 +27,7 @@ Please take a look at the video abstract:
    ```
 6. Install dependencies in linux console if You want to run a project from a console using command: 
     ```
-    pip3 install -r requirements.txt
+    pip3 install -r requirements_linux.txt
     ``` 
 4. Turn on Tello drone and connect to its Wi-Fi 
 5. Run program in console via command 
